@@ -7,10 +7,10 @@
 ---
 
 ## 🌟 **About Me**
-- 🔭 Currently working on a **Clothing Store App**  
-- 📚 Learning **Backend Development (Express.js, MongoDB)**  
-- 💡 Interested in **Cybersecurity & Full-Stack Development**  
-- 🎯 Goal: Become a **Full-Stack Developer**  
+- 🛠 **Full-Stack Developer** (Frontend + Backend)  
+- 📚 Currently **learning Cybersecurity**  
+- 💡 Interested in **Web & Mobile Development, Cybersecurity**  
+- 🎯 Goal: **Master advanced security & backend systems**  
 
 ---
 
@@ -23,9 +23,9 @@
 ---
 
 ## 📂 **Projects**
-🔥 **[Store App](https://bit.ly/my-store-app)** → *Clothing store app built with Vue.js & Express*  
-🎲 **[Memory Game](https://bit.ly/chafik-memory-game)** → *A fun game using Vue.js*  
-🍽 **[Meal Finder](https://bit.ly/chafik-meal-app)** → *A meal search app using an API*  
+🔥 **[Store App](https://github.com/Chafikbz4/Store-App)** → *A clothing store app built with React Native & Express*  
+🎮 **[Fantasy App](https://github.com/Chafikbz4/Fantasy-App)** → *An exciting fantasy game application*  
+🛠 **[DZ-Skills](https://github.com/Chafikbz4/DZ-Skills)** → *A platform to showcase & discover skills in Algeria*  
 
 ---
 
